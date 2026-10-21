@@ -1,0 +1,13 @@
+גרסה 8 — עדכון פורטפוליו
+
+1. שמרי עותק גיבוי של התיקייה המקורית naama-portfolio.
+2. חלצי את קובץ ה-ZIP והעתיקי את תוכן Naama_Portfolio_COMPLETE_2026 לתיקייה המקורית. שמרי את .git המקורי.
+3. בתיקיית הפרויקט הריצי: npm install
+4. הריצי: npm run build
+5. רק אם הבנייה הצליחה:
+   git add .
+   git commit -m "Improve Reversi and C++ showcase"
+   git push origin main
+
+שינויים: Reversi עם פצצות, תגובת שרשרת ועוגנים; C++ showcase עם 3 מקרי לימוד; קישורי GitHub; הסרת שורת החיפוש.
+הערה: הדגמות הדפדפן ממחישות את הרעיונות מהפרויקטים ואינן מריצות את קוד Java/C++ המקורי.
