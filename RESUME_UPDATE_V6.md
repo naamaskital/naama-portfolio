@@ -1,0 +1,1 @@
+All four PDFs now display the portfolio URL prominently at the top, omit phone number, and include National Service, teaching, Bnei Akiva counseling (including special-needs children), and volunteering at Schneider Children's Medical Center. Website download continues to point to the general resume.

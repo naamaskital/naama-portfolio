@@ -1,0 +1,8 @@
+התקנה:
+1. גבי את תיקיית naama-portfolio המקורית.
+2. חלצי את הקובץ והעתיקי את כל תוכן התיקייה אל תיקיית הפרויקט המקורית (אל תמחקי את .git).
+3. הריצי npm install ואז npm run build.
+4. אם הבנייה הצליחה: git add . ; git commit -m "Complete portfolio update" ; git push origin main
+5. ודאי באתר שיש Projects, Results, Demo, Lab וכפתור Download Resume.
+
+הדגמת הסיווג היא המחשה עם דוגמאות מוגדרות מראש, לא הרצת מודל חי.
